@@ -11,11 +11,6 @@ class House:
                 print(f'Этаж: {floor}')
 
 
-
-
-
-
-
 h1 = House('ЖК Байкал', 20)
 h2 = House('Коттедж', 3)
 h1.go_to(5)
