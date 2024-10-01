@@ -3,7 +3,6 @@ import time
 class User:
     """
     Класс задающий объём и качество характеристик пользователя
-
     """
 
     def __init__(self, nickname: str, password: int, age: int):
